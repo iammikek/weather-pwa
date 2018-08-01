@@ -1,3 +1,4 @@
 # weather-pwa
 
-A clone and uk localised version of https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/
+A cloned and uk localised version of project code from https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/
+
